@@ -1,5 +1,5 @@
 #  Apple Emission Dashboard
-![Dashboard Image](https://github.com/abdelrahman4578/Apple-Emission/raw/main/Capture.PNG)
+![Dashboard Image](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/ae0386d83b311abb9d3a09323ef836977e200bf7/Apple-Emission/Capture.PNG)
 
 ## Overview
 
