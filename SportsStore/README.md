@@ -1,5 +1,7 @@
 # Sports Store Data Analysis
+![Sports Store Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/5ed7bd2d431bf457bdecd0db80bf404a5bb4b610/SportsStore/Capture.PNG)
 
+![Sports Store Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/5ed7bd2d431bf457bdecd0db80bf404a5bb4b610/SportsStore/Capture1.PNG)
 ## Overview
 
 The Sports Store Data Analysis project involves cleaning and analyzing data related to a sports store's operations. The data cleaning process was performed in Excel, involving actions such as removing duplicates, changing data types, splitting text into columns, and applying conditional formatting. Subsequently, the cleaned data was imported into SQL Server for exploratory data analysis.
