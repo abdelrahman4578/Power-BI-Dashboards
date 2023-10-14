@@ -1,5 +1,5 @@
 # Mobile Data Dashboard
-
+![Mobile Data Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/9553ad66117d9f124eddc6665bbbeefeea7e5ad2/Mobile-Phones/Capture.PNG)
 ## Overview
 
 The Mobile Data Dashboard is a powerful tool designed to visualize and analyze pricing trends of mobile phones from various brands. The dataset used for this dashboard contains detailed information about each mobile phone, including storage capacity, RAM, screen size, camera specifications, battery capacity, brand, model, and price.
