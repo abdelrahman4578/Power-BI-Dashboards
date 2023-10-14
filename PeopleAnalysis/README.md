@@ -1,6 +1,6 @@
 # People Analysis Dashboard
 
-![Dashboard](https://github.com/abdelrahman4578/PeopleAnalysis/blob/main/Capture.PNG)
+![Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/e538702c6a04c5445953205ec02fdf1e8b37b9aa/PeopleAnalysis/Capture.PNG)
 
 ## Dashboard Questions and Insights
 
