@@ -1,6 +1,6 @@
 # HCAHPS Patient Survey Dashboard
 
-![Dashboard Preview](https://github.com/abdelrahman4578/HCAHPS/blob/main/Capture.PNG)
+![Dashboard Preview](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/1b641766c3dad64534d873244693b2f8e7ebe0a8/HCAHPS/Capture.PNG)
 
 ## Overview
 
