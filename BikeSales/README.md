@@ -1,5 +1,6 @@
 # Bike Sales Analysis Dashboard (2016-2018)
-
+![Bike Sales Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/a04ee7e554e0bc8f0b62d114ce545b207648875f/BikeSales/Capture.PNG)
+![Bike Sales Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/a04ee7e554e0bc8f0b62d114ce545b207648875f/BikeSales/Capture2.PNG)
 ## Overview
 
 The Bike Sales Analysis Dashboard is a powerful tool that allows users to explore and gain insights into our company's bicycle sales data for the years 2016 to 2018. This dashboard is designed to provide a visual representation of key sales metrics, trends, and important findings that can inform business decisions.
