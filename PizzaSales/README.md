@@ -1,6 +1,6 @@
 # Pizza Sales Dashboard
 
-![Dashboard](https://github.com/abdelrahman4578/PizzaSales/blob/main/Capture.PNG)
+![Dashboard](https://github.com/abdelrahman4578/Power-BI-Dashboards-/blob/5924376ce6880b39971dfd76b534a5df0d44cfd9/PizzaSales/Capture.PNG)
 
 ## Dashboard Questions and Insights
 
