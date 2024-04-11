@@ -1,5 +1,5 @@
 ## MeriSKILL Internship Project 1: Sales Dashboard Insights
-
+![Dashboard Screenshot](Dashboard%20Image.PNG)
 ### Overview
 The first project in the MeriSKILL internship involves analyzing and interpreting data from a comprehensive **Sales Dashboard** for the year 2019. The dashboard provides an in-depth look at key performance indicators (KPIs) that are crucial for making informed business decisions.
 
